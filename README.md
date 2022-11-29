@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranavla
+- 👋 Hi, I’m @Pranavlal
 - 👀 I’m interested in web development,Data analysis,AI
 - 🌱 I’m currently learning web development,Data analysis,AI
 - 💞️ I’m looking to collaborate on following
